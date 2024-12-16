@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_asterioid","order":1,"path":"objects/obj_asterioid/obj_asterioid.yy",},
+    {"name":"spr_asteroid_med","order":2,"path":"sprites/spr_asteroid_med/spr_asteroid_med.yy",},
+    {"name":"spr_asteroid_small","order":1,"path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+  ],
+}
