@@ -12,6 +12,8 @@
     {"name":"snd_crash","order":1,"path":"sounds/snd_crash/snd_crash.yy",},
     {"name":"snd_respawn","order":3,"path":"sounds/snd_respawn/snd_respawn.yy",},
     {"name":"snd_rockboom","order":4,"path":"sounds/snd_rockboom/snd_rockboom.yy",},
+    {"name":"snd_shoot","order":7,"path":"sounds/snd_shoot/snd_shoot.yy",},
+    {"name":"snd_win","order":6,"path":"sounds/snd_win/snd_win.yy",},
     {"name":"spr_asteroid_large","order":3,"path":"sprites/spr_asteroid_large/spr_asteroid_large.yy",},
     {"name":"spr_asteroid_med","order":2,"path":"sprites/spr_asteroid_med/spr_asteroid_med.yy",},
     {"name":"spr_asteroid_small","order":1,"path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",},
